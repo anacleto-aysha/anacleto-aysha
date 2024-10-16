@@ -6,5 +6,5 @@ Meu nome é Aysha Eduarda Forquim Anacleto
  - Estudo no Colégio Estadual Padre Claudio Morelli
  - Estou no primeiro ano do ensino médio
  - Estudo no turno da tarde
- - faço curso no [Alura](https://3076-cypress-alurapic-front.vercel.app/.)
+ - faço curso no [Alura]
    
